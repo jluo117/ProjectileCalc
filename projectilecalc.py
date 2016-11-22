@@ -6,6 +6,7 @@ import math
 print ("Welcome to Projectile Calculator")
 angle = input("Enter the angle of launch in degrees: ")
 velocity = input("Enter the velocity at launch in meters per second: ")
+print("Acceleration of gravity on different planets/satellites: ")
 print ("Earth = - 9.81")
 print ("Mars = - 6.301")
 print ("Moon = - 1.625")
